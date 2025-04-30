@@ -69,4 +69,4 @@ Este notebook demonstrou como realizar uma análise completa de séries temporai
 
 - **LinkedIn:** www.linkedin.com/in/bruno-suassuna-698aa7235
 
-**Licença:** [MIT](https://opensource.org/license/MIT)
+- **Licença:** [MIT](https://opensource.org/license/MIT)
