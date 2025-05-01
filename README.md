@@ -104,7 +104,7 @@ Este estudo demonstrou como aplicar técnicas estatísticas clássicas para aná
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/analise-series-passageiros.git
+git clone https://github.com/brunosuassuna/Analise-Temporal-de-Passageiros-Aereos
 
 2. Instale as dependências:
 pip install -r requirements.txt
